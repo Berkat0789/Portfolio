@@ -1,449 +1,448 @@
 ,mean daily returns,volitility,ticker,sector,name
-MMM daily returns,-0.18954250600152545,0.3351551791006817,MMM,Industrials,3M Company
-AOS daily returns,-0.06638854606696291,0.31028385131084363,AOS,Industrials,A.O. Smith Corp
-ABT daily returns,0.16189088297601,0.32055447948051946,ABT,Health Care,Abbott Laboratories
-ABBV daily returns,-0.032717521481550445,0.3376304893263949,ABBV,Health Care,AbbVie Inc.
-ACN daily returns,0.1598974599974028,0.31618030739273884,ACN,Information Technology,Accenture plc
-ATVI daily returns,0.27411592385193195,0.4011297442604771,ATVI,Information Technology,Activision Blizzard
-AYI daily returns,-0.1882608295705374,0.4623522140487255,AYI,Industrials,Acuity Brands Inc
-ADBE daily returns,0.312787780715366,0.38148081917374754,ADBE,Information Technology,Adobe Systems Inc
-AAP daily returns,-0.3783759962518544,0.3970583075130085,AAP,Consumer Discretionary,Advance Auto Parts
-AMD daily returns,0.8694925515057348,0.5959846309651784,AMD,Information Technology,Advanced Micro Devices Inc
-AES daily returns,0.05803200375664055,0.41385492254650813,AES,Utilities,AES Corp
-AMG daily returns,-0.31303352588658867,0.46884355659965377,AMG,Financials,Affiliated Managers Group Inc
-AFL daily returns,-0.1712190765232366,0.44184959494500126,AFL,Financials,AFLAC Inc
-A daily returns,0.12965583542820874,0.3348888256042551,A,Health Care,Agilent Technologies Inc
-APD daily returns,0.24862797532105754,0.35158207622858206,APD,Materials,Air Products & Chemicals Inc
-AKAM daily returns,0.42624899576243513,0.31370573047993755,AKAM,Information Technology,Akamai Technologies Inc
-ALK daily returns,-0.551407648694919,0.4960083572991528,ALK,Industrials,Alaska Air Group Inc
-ALB daily returns,-0.128083075421951,0.4822911341410596,ALB,Materials,Albemarle Corp
-ARE daily returns,0.19816610160021816,0.33138069792889824,ARE,Real Estate,Alexandria Real Estate Equities Inc
-ALXN daily returns,0.00591822006912901,0.3941705763752583,ALXN,Health Care,Alexion Pharmaceuticals
-ALGN daily returns,-0.024250579812750937,0.5754704716654869,ALGN,Health Care,Align Technology
-ALLE daily returns,0.10991503258446852,0.3361078954597073,ALLE,Industrials,Allegion
-AGN daily returns,0.27962601903458256,0.34332015949129346,AGN,Health Care,"Allergan, Plc"
-ADS daily returns,-1.0676126478496042,0.666885182001403,ADS,Information Technology,Alliance Data Systems
-LNT daily returns,0.17035999249642675,0.2954632912709196,LNT,Utilities,Alliant Energy Corp
-ALL daily returns,0.12417898984798982,0.33161241912008016,ALL,Financials,Allstate Corp
-GOOGL daily returns,0.09007389305161037,0.3243844265267422,GOOGL,Information Technology,Alphabet Inc Class A
-GOOG daily returns,0.10011933579860033,0.3256883011537928,GOOG,Information Technology,Alphabet Inc Class C
-MO daily returns,-0.126506900971183,0.3300108379836227,MO,Consumer Staples,Altria Group Inc
-AMZN daily returns,0.21576195303478343,0.28710165334560495,AMZN,Consumer Discretionary,Amazon.com Inc.
-AEE daily returns,0.15034869949812385,0.33755660621158184,AEE,Utilities,Ameren Corp
-AAL daily returns,-0.7008511683112664,0.6577470587106679,AAL,Industrials,American Airlines Group
-AEP daily returns,0.10843254451751906,0.28978734063686085,AEP,Utilities,American Electric Power
-AXP daily returns,-0.05118603945476039,0.440332772696894,AXP,Financials,American Express Co
-AIG daily returns,-0.31568444313580196,0.5042245747410078,AIG,Financials,"American International Group, Inc."
-AMT daily returns,0.33661805366624176,0.34923198231589536,AMT,Real Estate,American Tower Corp A
-AWK daily returns,0.2903124333786231,0.34435771544223687,AWK,Utilities,American Water Works Company Inc
-AMP daily returns,0.08325853836658617,0.5456196739041795,AMP,Financials,Ameriprise Financial
-ABC daily returns,0.18992914924789284,0.3844383921487941,ABC,Health Care,AmerisourceBergen Corp
-AME daily returns,0.11852526588729928,0.38276864034484787,AME,Industrials,AMETEK Inc.
-AMGN daily returns,0.13386485702211157,0.3168439485054736,AMGN,Health Care,Amgen Inc.
-APH daily returns,-0.04994107401348593,0.3227044704711382,APH,Information Technology,Amphenol Corp
-ADI daily returns,0.1170081374514763,0.43639185147814424,ADI,Information Technology,"Analog Devices, Inc."
-ANSS daily returns,0.40040498876566394,0.37915241175218795,ANSS,Information Technology,ANSYS
-ANTM daily returns,-0.035386789182114686,0.45717149040953825,ANTM,Health Care,Anthem Inc.
-AON daily returns,0.1340940001074775,0.31483689032162565,AON,Financials,Aon plc
-APA daily returns,-0.8452636815663063,0.9249152033233927,APA,Energy,Apache Corporation
-AIV daily returns,-0.10141381051073539,0.39694982329751405,AIV,Real Estate,Apartment Investment & Management
-AAPL daily returns,0.4266752883031748,0.378291734581982,AAPL,Information Technology,Apple Inc.
-AMAT daily returns,0.3551426426460629,0.5145936199141465,AMAT,Information Technology,Applied Materials Inc.
-APTV daily returns,-0.04197029929209064,0.5691022892209299,APTV,Consumer Discretionary,Aptiv Plc
-ADM daily returns,-0.050766576810000345,0.3231222275159325,ADM,Consumer Staples,Archer-Daniels-Midland Co
-ARNC daily returns,-0.4742527945047521,0.6886975197171251,ARNC,Industrials,Arconic Inc.
-AJG daily returns,0.1374854239502919,0.32336371169721034,AJG,Financials,Arthur J. Gallagher & Co.
-AIZ daily returns,0.1908172298113552,0.366443480522041,AIZ,Financials,Assurant Inc.
-T daily returns,0.06665091106965342,0.2915183233774354,T,Telecommunication Services,AT&T Inc.
-ADSK daily returns,0.1528995791658235,0.4232146877657627,ADSK,Information Technology,Autodesk Inc.
-ADP daily returns,0.08084882004280303,0.35044232592955055,ADP,Information Technology,Automatic Data Processing
-AZO daily returns,0.007371211133330569,0.35633164846137116,AZO,Consumer Discretionary,AutoZone Inc
-AVB daily returns,-0.06757704159561796,0.35761260102994696,AVB,Real Estate,"AvalonBay Communities, Inc."
-AVY daily returns,0.16391914445672517,0.3912100881944159,AVY,Materials,Avery Dennison Corp
-BLL daily returns,0.3668004863579476,0.34188014747617057,BLL,Materials,Ball Corp
-BAC daily returns,-0.05047589941059059,0.4314460368377851,BAC,Financials,Bank of America Corp
-BAX daily returns,0.22822175844599463,0.32064001732506847,BAX,Health Care,Baxter International Inc.
-BDX daily returns,0.09680169765335185,0.3099919097471842,BDX,Health Care,Becton Dickinson
-BBY daily returns,0.13594687312954035,0.44389162340921895,BBY,Consumer Discretionary,Best Buy Co. Inc.
-BIIB daily returns,0.12163754173275096,0.515465685748225,BIIB,Health Care,Biogen Inc.
-BLK daily returns,0.17725140727311758,0.39912641037822205,BLK,Financials,BlackRock
-HRB daily returns,-0.3945995827362778,0.4257702529452817,HRB,Financials,Block H&R
-BA daily returns,-0.5318478599004037,0.6090925419493076,BA,Industrials,Boeing Company
-BKNG daily returns,-0.15347971852944306,0.3741345646767687,BKNG,Consumer Discretionary,Booking Holdings Inc
-BWA daily returns,-0.25260617697699644,0.39929419640916763,BWA,Consumer Discretionary,BorgWarner
-BXP daily returns,-0.12370714774533037,0.3525636670310245,BXP,Real Estate,Boston Properties
-BSX daily returns,-0.022252493361841718,0.3448436007806314,BSX,Health Care,Boston Scientific
-BHF daily returns,-0.09528066593903538,0.6701844365084517,BHF,Financials,Brighthouse Financial Inc
-BMY daily returns,0.11331116639250016,0.2981010261918179,BMY,Health Care,Bristol-Myers Squibb
-AVGO daily returns,0.0762943612430985,0.4644405402963833,AVGO,Information Technology,Broadcom
-CHRW daily returns,-0.09796566246312848,0.2925529408229747,CHRW,Industrials,C. H. Robinson Worldwide
-COG daily returns,-0.21011425211872253,0.4251618129083517,COG,Energy,"CA, Inc."
-CDNS daily returns,0.41468148327838783,0.38469315820193756,CDNS,Information Technology,Cabot Oil & Gas
-CPB daily returns,0.3699035483980925,0.2996796319919597,CPB,Consumer Staples,Cadence Design Systems
-COF daily returns,-0.29045477409957493,0.4902298999246686,COF,Financials,Campbell Soup
-CAH daily returns,0.13277638996768265,0.3833642515685695,CAH,Health Care,Capital One Financial
-KMX daily returns,-0.05500243617900064,0.4438597299821832,KMX,Consumer Discretionary,Cardinal Health Inc.
-CCL daily returns,-1.0941819359449645,0.7529194749964655,CCL,Consumer Discretionary,Carmax Inc
-CAT daily returns,0.032173976532951086,0.3668869133086256,CAT,Industrials,Carnival Corp.
-CBOE daily returns,0.010274129979251433,0.3381265354440525,CBOE,Financials,Caterpillar Inc.
-CBRE daily returns,0.025325937946157673,0.4263104877910429,CBRE,Real Estate,Cboe Global Markets
-CNC daily returns,0.10126735566771083,0.480742056269699,CNC,Health Care,CBRE Group
-CNP daily returns,-0.3990590121867868,0.4404996301956229,CNP,Utilities,CBS Corp.
-CTL daily returns,-0.23849536472626945,0.49663122863064824,CTL,Telecommunication Services,Celgene Corp.
-CERN daily returns,0.18137808211243306,0.2620944377172091,CERN,Health Care,Centene Corporation
-CF daily returns,-0.20614521971473385,0.4667280684070142,CF,Materials,CenterPoint Energy
-SCHW daily returns,-0.05019188985374452,0.4394959073588563,SCHW,Financials,CenturyLink Inc
-CHTR daily returns,0.366589020803768,0.3131829389798944,CHTR,Consumer Discretionary,Cerner
-CVX daily returns,-0.1663113464249687,0.4598143727606654,CVX,Energy,CF Industries Holdings Inc
-CMG daily returns,0.3535313463311523,0.40397486767285856,CMG,Consumer Discretionary,Charles Schwab Corporation
-CB daily returns,-0.07439246026967368,0.3351221574216211,CB,Financials,Charter Communications
-CHD daily returns,0.05707985957197046,0.2861174865757786,CHD,Consumer Staples,Chevron Corp.
-CI daily returns,0.02262685543788079,0.45292485549239486,CI,Health Care,Chipotle Mexican Grill
-XEC daily returns,-0.7478552037740233,0.7485525527510412,XEC,Energy,Chubb Limited
-CINF daily returns,0.08943598462702705,0.3818619675320626,CINF,Financials,Church & Dwight
-CTAS daily returns,0.059589198339103255,0.3887524069629328,CTAS,Industrials,CIGNA Corp.
-CSCO daily returns,0.02014906294429011,0.36174236204486626,CSCO,Information Technology,Cimarex Energy
-C daily returns,-0.12304798879650773,0.4787034343098393,C,Financials,Cincinnati Financial
-CFG daily returns,-0.25839349509679477,0.521231967725904,CFG,Financials,Cintas Corporation
-CTXS daily returns,0.32085653924354984,0.2839787776276736,CTXS,Information Technology,Cisco Systems
-CME daily returns,0.015881319279008998,0.39005351717056597,CME,Financials,Citigroup Inc.
-CMS daily returns,0.20144262052235995,0.30561786128757684,CMS,Utilities,Citizens Financial Group
-KO daily returns,-0.0006901447415406991,0.27621894101087346,KO,Consumer Staples,Citrix Systems
-CTSH daily returns,-0.1903368455741769,0.3894570626490545,CTSH,Information Technology,CME Group Inc.
-CL daily returns,0.165854037175803,0.28291737079063317,CL,Consumer Staples,CMS Energy
-CMCSA daily returns,0.05124364651482454,0.31101017522183083,CMCSA,Consumer Discretionary,Coca-Cola Company (The)
-CMA daily returns,-0.5601100390673411,0.48799651699669405,CMA,Financials,Cognizant Technology Solutions
-CAG daily returns,0.38691090447789256,0.4019191926320192,CAG,Consumer Staples,Colgate-Palmolive
-CXO daily returns,-0.46485081697897845,0.5928857042727741,CXO,Energy,Comcast Corp.
-COP daily returns,-0.34725935598802565,0.5407342260741577,COP,Energy,Comerica Inc.
-ED daily returns,0.11445214130936714,0.32561030840282673,ED,Utilities,Conagra Brands
-STZ daily returns,-0.09169898605705712,0.39815778737384405,STZ,Consumer Staples,Concho Resources
-GLW daily returns,-0.23097393014788814,0.4283124832952661,GLW,Information Technology,ConocoPhillips
-COST daily returns,0.31164147545908344,0.25049073702105956,COST,Consumer Staples,Consolidated Edison
-COTY daily returns,0.04866392037481511,0.7722870974539917,COTY,Consumer Staples,Constellation Brands
-CCI daily returns,0.31996826384255206,0.3401719324649489,CCI,Real Estate,Corning Inc.
-CSX daily returns,0.0005780074735779018,0.386668704502481,CSX,Industrials,Costco Wholesale Corp.
-CMI daily returns,0.08863340481004772,0.3645217637803098,CMI,Industrials,"Coty, Inc"
-CVS daily returns,-0.035242735815329156,0.3541965518121011,CVS,Consumer Staples,Crown Castle International Corp.
-DHI daily returns,0.05670709942228766,0.4265703832580954,DHI,Consumer Discretionary,CSX Corp.
-DHR daily returns,0.27260485236099324,0.290736681746532,DHR,Health Care,Cummins Inc.
-DRI daily returns,-0.3958450035756403,0.6144084415061641,DRI,Consumer Discretionary,CVS Health
-DVA daily returns,0.34620559725191624,0.3758745952275045,DVA,Health Care,D. R. Horton
-DE daily returns,0.0231342969096092,0.38671135104024573,DE,Industrials,Danaher Corp.
-DAL daily returns,-0.4347547191338861,0.5278436874447062,DAL,Industrials,Darden Restaurants
-XRAY daily returns,0.07167309514741156,0.34983645899164123,XRAY,Health Care,DaVita Inc.
-DVN daily returns,-0.5867109463371364,0.7240918361676414,DVN,Energy,Deere & Co.
-DLR daily returns,0.3146671606465355,0.3516780255715672,DLR,Real Estate,Delta Air Lines Inc.
-DFS daily returns,-0.3152194322113476,0.588983812559423,DFS,Financials,Dentsply Sirona
-DISCA daily returns,-0.15954918007892768,0.38452940996431584,DISCA,Consumer Discretionary,Devon Energy Corp.
-DISCK daily returns,-0.17286957519922036,0.37499529649569846,DISCK,Consumer Discretionary,Digital Realty Trust Inc
-DISH daily returns,-0.11333567321394647,0.5160348157047537,DISH,Consumer Discretionary,Discover Financial Services
-DG daily returns,0.36609293140407145,0.2907818599055133,DG,Consumer Discretionary,Discovery Inc. Class A
-DLTR daily returns,-0.11458258688341934,0.4017489215290584,DLTR,Consumer Discretionary,Discovery Inc. Class C
-D daily returns,0.11715528313213684,0.36269443781600447,D,Utilities,Dish Network
-DOV daily returns,0.1945260912814117,0.38780576761410335,DOV,Industrials,Dollar General
-DTE daily returns,-0.04741285832196791,0.3603810821262849,DTE,Utilities,Dollar Tree
-DUK daily returns,0.031271079423427835,0.3170862071487088,DUK,Utilities,Dominion Energy
-DRE daily returns,0.24243891345791174,0.3610462507288064,DRE,Real Estate,Dover Corp.
-DXC daily returns,-0.8213673797611061,0.7984369749267026,DXC,Information Technology,DTE Energy Co.
-ETFC daily returns,-0.06177662918947302,0.5532583541791419,ETFC,Financials,Duke Energy
-EMN daily returns,-0.22082543166830532,0.4092112429404345,EMN,Materials,Duke Realty Corp
-ETN daily returns,0.7106392883658752,0.7410024006819497,ETN,Industrials,DXC Technology
-EBAY daily returns,0.07070429945759288,0.3010151355568146,EBAY,Information Technology,E*Trade
-ECL daily returns,0.10710557260072547,0.3698228523875639,ECL,Materials,Eastman Chemical
-EIX daily returns,0.03765433439198125,0.38539091607483744,EIX,Utilities,Eaton Corporation
-EW daily returns,0.22338121121614465,0.37758823218496307,EW,Health Care,eBay Inc.
-EA daily returns,0.26739483698576416,0.4087251901849018,EA,Information Technology,Ecolab Inc.
-EMR daily returns,-0.06264643055433562,0.42764616621212503,EMR,Industrials,Edison Int'l
-ETR daily returns,0.12844258317733273,0.3491554777973509,ETR,Utilities,Edwards Lifesciences
-EOG daily returns,-0.48228444262009446,0.5608478167565332,EOG,Energy,Electronic Arts
-EQT daily returns,-0.5995906328384186,0.7145325451073156,EQT,Energy,Emerson Electric Company
-EFX daily returns,0.2070412223110032,0.3126815315891812,EFX,Industrials,Entergy Corp.
-EQIX daily returns,0.5222781860049721,0.33806823120810264,EQIX,Real Estate,EOG Resources
-EQR daily returns,-0.012487579350552292,0.3135768158604406,EQR,Real Estate,EQT Corporation
-ESS daily returns,-0.05980961764062407,0.33207883645318986,ESS,Real Estate,Equifax Inc.
-EL daily returns,0.1947498425157218,0.3662932724795724,EL,Consumer Staples,Equinix
-RE daily returns,-0.028560692140557366,0.347858756065735,RE,Financials,Equity Residential
-ES daily returns,0.25693978592022076,0.3480562953073865,ES,Utilities,"Essex Property Trust, Inc."
-EXC daily returns,-0.09483627014229316,0.3710582184899306,EXC,Utilities,Estee Lauder Cos.
-EXPE daily returns,-0.46068075783725504,0.5083779305340208,EXPE,Consumer Discretionary,Everest Re Group Ltd.
-EXPD daily returns,0.046819049115203716,0.29152381574011355,EXPD,Industrials,Eversource Energy
-EXR daily returns,0.11843597765599209,0.2974541358313808,EXR,Real Estate,Exelon Corp.
-XOM daily returns,-0.3308989062051736,0.3435068346906724,XOM,Energy,Expedia Inc.
-FFIV daily returns,-0.2844245735481796,0.33659966018593984,FFIV,Information Technology,Expeditors International
-FB daily returns,0.198912764347856,0.36578002835015133,FB,Information Technology,Extra Space Storage
-FAST daily returns,0.25440631121944135,0.38130072097276313,FAST,Industrials,Exxon Mobil Corp.
-FRT daily returns,-0.3153398851137615,0.37660773190473407,FRT,Real Estate,F5 Networks
-FDX daily returns,-0.17540972534745788,0.42619479602926247,FDX,Industrials,"Facebook, Inc."
-FIS daily returns,0.19055860131494268,0.3678428315066553,FIS,Information Technology,Fastenal Co
-FITB daily returns,-0.25404060073642437,0.5083581838712063,FITB,Financials,Federal Realty Investment Trust
-FE daily returns,0.15885441787176538,0.341911559008186,FE,Utilities,FedEx Corporation
-FISV daily returns,0.23322916249174241,0.373760720482139,FISV,Information Technology,Fidelity National Information Services
-FLIR daily returns,-0.1245441026738524,0.41312787979372995,FLIR,Information Technology,Fifth Third Bancorp
-FLS daily returns,-0.22264474889612532,0.4368348464070282,FLS,Industrials,FirstEnergy Corp
-FLR daily returns,-0.7762942656814342,1.0397452102473614,FLR,Industrials,Fiserv Inc
-FMC daily returns,0.2743059712170053,0.44082455281699695,FMC,Materials,FLIR Systems
-FL daily returns,-0.6256544293033005,0.4920956944946633,FL,Consumer Discretionary,Flowserve Corporation
-F daily returns,-0.313752621347305,0.42670117218647474,F,Consumer Discretionary,Fluor Corp.
-FTV daily returns,-0.08491674555312372,0.36792380220699983,FTV,Industrials,FMC Corporation
-FBHS daily returns,0.11582538032994859,0.4070576140049283,FBHS,Industrials,Foot Locker Inc
-BEN daily returns,-0.3570845512165201,0.3968132965971188,BEN,Financials,Ford Motor
-FCX daily returns,-0.16676861729365502,0.6093370318785452,FCX,Materials,Fortive Corp
-GPS daily returns,-0.963431174245995,0.6047668108830143,GPS,Consumer Discretionary,Fortune Brands Home & Security
-GRMN daily returns,0.1995225909349787,0.3387034487435354,GRMN,Consumer Discretionary,Franklin Resources
-IT daily returns,-0.15693910210371945,0.39607190282000104,IT,Information Technology,Freeport-McMoRan Inc.
-GD daily returns,-0.0991559963696849,0.30945145838996774,GD,Industrials,Gap Inc.
-GE daily returns,0.0822449622619863,0.5265085492577686,GE,Industrials,Garmin Ltd.
-GIS daily returns,0.3479926720087445,0.2742773141760152,GIS,Consumer Staples,Gartner Inc
-GM daily returns,-0.3167656261613226,0.43587318360733146,GM,Consumer Discretionary,General Dynamics
-GPC daily returns,-0.21872972470086074,0.38754420081441365,GPC,Consumer Discretionary,General Electric
-GILD daily returns,0.2116883688222133,0.30361664644569075,GILD,Health Care,General Mills
-GPN daily returns,0.3044125796952558,0.421775846227383,GPN,Information Technology,General Motors
-GS daily returns,-0.010934662333359225,0.41072900514144745,GS,Financials,Genuine Parts
-GT daily returns,-0.8028926043709219,0.534673072272251,GT,Consumer Discretionary,Gilead Sciences
-GWW daily returns,-0.013682703532299457,0.38234182422797297,GWW,Industrials,Global Payments Inc.
-HAL daily returns,-0.7551850205236277,0.684948319249088,HAL,Energy,Goldman Sachs Group
-HBI daily returns,-0.2820072466675444,0.4662134439589797,HBI,Consumer Discretionary,Goodyear Tire & Rubber
-HOG daily returns,-0.3666511344761437,0.5380972042552303,HOG,Consumer Discretionary,Grainger (W.W.) Inc.
-HIG daily returns,-0.0705175306098325,0.46260143952007726,HIG,Financials,Halliburton Co.
-HAS daily returns,0.04613662191349271,0.4788983276210885,HAS,Consumer Discretionary,Hanesbrands Inc
-HCA daily returns,-0.17481487819910252,0.45637757823281083,HCA,Health Care,Harley-Davidson
-HP daily returns,-0.5557845865728135,0.689128011762322,HP,Energy,Hartford Financial Svc.Gp.
-HSIC daily returns,-0.1039183730439543,0.3259249384687449,HSIC,Health Care,Hasbro Inc.
-HES daily returns,0.06128803220910628,0.5850058258294932,HES,Energy,HCA Holdings
-HPE daily returns,-0.1370970000622444,0.4160550421687184,HPE,Information Technology,Helmerich & Payne
-HLT daily returns,-0.03165912814068186,0.3456991303691259,HLT,Consumer Discretionary,Henry Schein
-HOLX daily returns,-0.04345448103412686,0.33771853179566924,HOLX,Health Care,Hess Corporation
-HD daily returns,0.1274257919684583,0.37030784664513,HD,Consumer Discretionary,Hewlett Packard Enterprise
-HON daily returns,0.067010774214602,0.3405409579495125,HON,Industrials,Hilton Worldwide Holdings Inc
-HRL daily returns,0.1626586116212513,0.2736164740038372,HRL,Consumer Staples,Hologic
-HST daily returns,-0.27915330727145804,0.3712773394073437,HST,Real Estate,Home Depot
-HPQ daily returns,-0.07892126710806809,0.4590056488422038,HPQ,Information Technology,Honeywell Int'l Inc.
-HUM daily returns,0.15171766607684606,0.45833844277243585,HUM,Health Care,Hormel Foods Corp.
-HBAN daily returns,-0.2579314387736398,0.38588333273824604,HBAN,Financials,Host Hotels & Resorts
-HII daily returns,0.030630172746467465,0.3477128580981955,HII,Industrials,HP Inc.
-IDXX daily returns,0.25999418454610806,0.3361276674062522,IDXX,Health Care,Humana Inc.
-INFO daily returns,0.26080389840395213,0.3848017715831258,INFO,Industrials,Huntington Bancshares
-ITW daily returns,0.16761970218282132,0.36914697322726986,ITW,Industrials,Huntington Ingalls Industries
-ILMN daily returns,0.010245080592941224,0.40849910845258763,ILMN,Health Care,IDEXX Laboratories
-INCY daily returns,0.20392078729413202,0.36229916528647543,INCY,Health Care,IHS Markit Ltd.
-IR daily returns,1.611196818063164,3.1601961305527206,IR,Industrials,Illinois Tool Works
-ICE daily returns,0.10540554308157936,0.31805619666068496,ICE,Financials,Illumina Inc
-IBM daily returns,0.05807776328367504,0.32971723335535236,IBM,Information Technology,Incyte
-IP daily returns,-0.09254530502835384,0.40021132034506934,IP,Materials,Ingersoll-Rand PLC
-IPG daily returns,-0.13424615009159274,0.40205410405043535,IPG,Consumer Discretionary,Intercontinental Exchange
-IFF daily returns,-0.13256660839516385,0.3817530994463942,IFF,Materials,International Business Machines
-INTU daily returns,0.19467241969674973,0.3952209308693467,INTU,Information Technology,International Paper
-ISRG daily returns,0.08150254266801875,0.3985914029408064,ISRG,Health Care,Interpublic Group
-IVZ daily returns,-0.3671391026100154,0.506600676873557,IVZ,Financials,Intl Flavors & Fragrances
-IPGP daily returns,0.0640323829964247,0.5063309478052967,IPGP,Information Technology,Intuit Inc.
-IQV daily returns,0.009040466197774233,0.40356801793202407,IQV,Health Care,Intuitive Surgical Inc.
-IRM daily returns,-0.17512319101941323,0.3514425331150076,IRM,Real Estate,Invesco Ltd.
-JBHT daily returns,0.04925454226343549,0.35705354429410774,JBHT,Industrials,IPG Photonics Corp.
-SJM daily returns,0.1871739341277772,0.28917152177348765,SJM,Consumer Staples,IQVIA Holdings Inc.
-JNJ daily returns,0.07152776884011836,0.26771940664326055,JNJ,Health Care,Iron Mountain Incorporated
-JCI daily returns,-0.052488030924251916,0.3138875436281849,JCI,Industrials,J. B. Hunt Transport Services
-JPM daily returns,-0.010829129598072562,0.39412796839137115,JPM,Financials,Jacobs Engineering Group
-JNPR daily returns,-0.18864171745547392,0.3072531134414259,JNPR,Information Technology,JM Smucker
-KSU daily returns,0.2796967595446122,0.41941506102938086,KSU,Industrials,Johnson & Johnson
-K daily returns,0.1440033469001052,0.30448192053795115,K,Consumer Staples,Johnson Controls International
-KEY daily returns,-0.16350715788652384,0.5362517652868976,KEY,Financials,JPMorgan Chase & Co.
-KMB daily returns,0.16734919939584147,0.28763773442225177,KMB,Consumer Staples,Juniper Networks
-KIM daily returns,-0.33064785056092844,0.4007555951329793,KIM,Real Estate,Kansas City Southern
-KMI daily returns,0.021052933470840075,0.43876104822015893,KMI,Energy,Kellogg Co.
-KLAC daily returns,0.4426554163915148,0.4918389682815716,KLAC,Information Technology,KeyCorp
-KSS daily returns,-1.0694252580525812,0.6149035060066159,KSS,Consumer Discretionary,Kimberly-Clark
-KHC daily returns,-0.2875589067884298,0.47469697727681265,KHC,Consumer Staples,Kimco Realty
-KR daily returns,0.16903790339398395,0.32749176113043194,KR,Consumer Staples,Kinder Morgan
-LB daily returns,-0.5146244699474449,0.7130055155156665,LB,Consumer Discretionary,KLA-Tencor Corp.
-LH daily returns,0.008357335996492311,0.40490821093974594,LH,Health Care,Kohl's Corp.
-LRCX daily returns,0.5493156275336054,0.5313877585407905,LRCX,Information Technology,Kraft Heinz Co
-LEG daily returns,-0.1647529332172697,0.45570797203889035,LEG,Consumer Discretionary,Kroger Co.
-LEN daily returns,0.013929356151395478,0.484804470448472,LEN,Consumer Discretionary,L Brands Inc.
-LLY daily returns,0.22926000284816261,0.31670605864269624,LLY,Health Care,Laboratory Corp. of America Holding
-LNC daily returns,-0.35485614761717627,0.6705320594083645,LNC,Financials,Lam Research
-LKQ daily returns,-0.053947953334751816,0.5060401215337081,LKQ,Consumer Discretionary,Leggett & Platt
-LMT daily returns,0.29216244900622573,0.3304508807815241,LMT,Industrials,Lennar Corp.
-L daily returns,-0.16253754721745092,0.4110626269852592,L,Financials,Lilly (Eli) & Co.
-LOW daily returns,0.020805232199849935,0.44307266827409736,LOW,Consumer Discretionary,Lincoln National
-LYB daily returns,-0.26290808275384236,0.5205293105767697,LYB,Materials,LKQ Corporation
-MTB daily returns,-0.20519063495247264,0.3924405033558553,MTB,Financials,Lockheed Martin Corp.
-MAC daily returns,-1.3704609983165046,0.5607584870695034,MAC,Real Estate,Loews Corp.
-M daily returns,-1.2091202576012214,0.6025239697632062,M,Consumer Discretionary,Lowe's Cos.
-MRO daily returns,-0.8798325564364642,0.678678548427665,MRO,Energy,LyondellBasell
-MPC daily returns,-0.5974083754279803,0.585880396505507,MPC,Energy,M&T Bank Corp.
-MAR daily returns,-0.28901998458764816,0.40673414927377755,MAR,Consumer Discretionary,Macerich
-MMC daily returns,0.10207368825829163,0.2918741811511866,MMC,Financials,Macy's Inc.
-MLM daily returns,0.15598351185681925,0.4055357294208373,MLM,Materials,Marathon Oil Corp.
-MAS daily returns,0.16870840356200995,0.3720865198662088,MAS,Industrials,Marathon Petroleum
-MA daily returns,0.24710494782049058,0.37634058606962406,MA,Information Technology,Marriott Int'l.
-MAT daily returns,0.06610651734015453,0.6071360419583245,MAT,Consumer Discretionary,Marsh & McLennan
-MKC daily returns,0.11986819901601393,0.34393188563397176,MKC,Consumer Staples,Martin Marietta Materials
-MCD daily returns,-0.004668058217220406,0.3310775968216082,MCD,Consumer Discretionary,Masco Corp.
-MCK daily returns,0.18359095166762185,0.4031725776685484,MCK,Health Care,Mastercard Inc.
-MDT daily returns,0.04692589271416292,0.30448091797580124,MDT,Health Care,Mattel Inc.
-MRK daily returns,0.060748157042943965,0.2710004901783635,MRK,Health Care,McCormick & Co.
-MET daily returns,-0.18049859370282675,0.43651342825056283,MET,Financials,McDonald's Corp.
-MTD daily returns,0.2099447915483437,0.33414835884533584,MTD,Health Care,McKesson Corp.
-MGM daily returns,-0.36837098240200256,0.6614329960178131,MGM,Consumer Discretionary,Medtronic plc
-MCHP daily returns,0.0668754320487392,0.5074618128146954,MCHP,Information Technology,Merck & Co.
-MU daily returns,0.32234081709593515,0.5415241920100125,MU,Information Technology,MetLife Inc.
-MSFT daily returns,0.4127489996602228,0.3562201346881551,MSFT,Information Technology,Mettler Toledo
-MAA daily returns,0.1287170627219183,0.34283056787085897,MAA,Real Estate,MGM Resorts International
-MHK daily returns,-0.29960701757847286,0.5060510409799535,MHK,Consumer Discretionary,Microchip Technology
-TAP daily returns,-0.19798730722659635,0.3388648817187516,TAP,Consumer Staples,Micron Technology
-MDLZ daily returns,0.2416968398543446,0.2957841534187174,MDLZ,Consumer Staples,Microsoft Corp.
-MNST daily returns,0.14696871533130773,0.3339292460929569,MNST,Consumer Staples,Mid-America Apartments
-MCO daily returns,0.3792235827782542,0.41823766778476384,MCO,Financials,Mohawk Industries
-MS daily returns,-0.029268878092240592,0.45159582380812485,MS,Financials,Molson Coors Brewing Company
-MSI daily returns,0.16672274797695072,0.35052320147903815,MSI,Information Technology,Mondelez International
-MYL daily returns,-0.41281446354822915,0.49952667775370574,MYL,Health Care,Monster Beverage
-NDAQ daily returns,0.19641072335095783,0.3552314814855491,NDAQ,Financials,Moody's Corp
-NOV daily returns,-0.5349828553066049,0.6497462589113637,NOV,Energy,Morgan Stanley
-NAVI daily returns,-0.06957435568754447,0.5705249012694369,NAVI,Financials,Motorola Solutions Inc.
-NKTR daily returns,-0.28784822624394124,0.6933831016795826,NKTR,Health Care,Mylan N.V.
-NTAP daily returns,-0.19016280643015646,0.44778941675728906,NTAP,Information Technology,"Nasdaq, Inc."
-NFLX daily returns,0.3309596533474541,0.4020747112294725,NFLX,Information Technology,National Oilwell Varco Inc.
-NWL daily returns,-0.1279648103964867,0.5282615398766969,NWL,Consumer Discretionary,Navient
-NEM daily returns,0.3862320154791825,0.3521207009671293,NEM,Materials,Nektar Therapeutics
-NWSA daily returns,-0.16244004281806257,0.3556351291923552,NWSA,Consumer Discretionary,NetApp
-NWS daily returns,-0.17969083602074562,0.35746204463297476,NWS,Consumer Discretionary,Netflix Inc.
-NEE daily returns,0.29622348729225917,0.327735052636069,NEE,Utilities,Newell Brands
-NLSN daily returns,-0.37124645651948207,0.4212547310375303,NLSN,Industrials,Newfield Exploration Co
-NKE daily returns,0.12690946478508006,0.33724837810998604,NKE,Consumer Discretionary,Newmont Mining Corporation
-NI daily returns,0.03403864818738071,0.3475760714580026,NI,Utilities,News Corp. Class A
-NBL daily returns,-0.5376430764661158,0.8074577357443317,NBL,Energy,News Corp. Class B
-JWN daily returns,-0.7844596964228086,0.5857970626799831,JWN,Consumer Discretionary,NextEra Energy
-NSC daily returns,0.06138193184815828,0.3998421579902649,NSC,Industrials,Nielsen Holdings
-NTRS daily returns,0.031176638504769726,0.4086084604332641,NTRS,Financials,Nike
-NOC daily returns,0.2584224415037632,0.34223676928284674,NOC,Industrials,NiSource Inc.
-NCLH daily returns,-0.8938833201498451,0.8145775317505354,NCLH,Consumer Discretionary,Noble Energy Inc
-NRG daily returns,-0.18070048521098603,0.384577137621638,NRG,Utilities,Nordstrom
-NUE daily returns,-0.17764548082749743,0.3906394279774012,NUE,Materials,Norfolk Southern Corp.
-NVDA daily returns,0.6387217549169611,0.5291763142529109,NVDA,Information Technology,Northern Trust Corp.
-ORLY daily returns,-0.04292736821637559,0.36057707586568033,ORLY,Consumer Discretionary,Northrop Grumman Corp.
-OXY daily returns,-0.8975164997410251,0.7030661186941843,OXY,Energy,Norwegian Cruise Line
-OMC daily returns,-0.1857262996574776,0.31619019208789106,OMC,Consumer Discretionary,NRG Energy
-OKE daily returns,-0.41932884775212126,0.6875067642256396,OKE,Energy,Nucor Corp.
-ORCL daily returns,0.1484962464773921,0.36047959150953784,ORCL,Information Technology,Nvidia Corporation
-PCAR daily returns,0.1318094838949235,0.3209811209416142,PCAR,Industrials,O'Reilly Automotive
-PKG daily returns,0.10256185290190079,0.3575819076575669,PKG,Materials,Occidental Petroleum
-PH daily returns,-0.043344785472730685,0.47283534009964295,PH,Industrials,Omnicom Group
-PAYX daily returns,0.047486455309697195,0.3856345051128851,PAYX,Information Technology,ONEOK
-PNR daily returns,-0.12960568382257956,0.4069587686354771,PNR,Industrials,Oracle Corp.
-PBCT daily returns,-0.14605363610485825,0.3992112808623672,PBCT,Financials,PACCAR Inc.
-PEP daily returns,0.1581407672825107,0.31029572402489375,PEP,Consumer Staples,Packaging Corporation of America
-PRGO daily returns,0.12132146940102287,0.4310151915782518,PRGO,Health Care,Parker-Hannifin
-PFE daily returns,-0.15701561413981643,0.28011938691623406,PFE,Health Care,Paychex Inc.
-PCG daily returns,0.12690963685889836,1.3784271239864958,PCG,Utilities,PayPal
-PM daily returns,0.18745785406167262,0.35412109376562484,PM,Consumer Staples,Pentair Ltd.
-PSX daily returns,-0.31397881709527703,0.4313216230053768,PSX,Energy,People's United Financial
-PNW daily returns,-0.0060269336229859865,0.34152714397786055,PNW,Utilities,PepsiCo Inc.
-PXD daily returns,-0.2474769150814458,0.626484732546255,PXD,Energy,PerkinElmer
-RL daily returns,-0.25187329573308737,0.4244259272605778,RL,Consumer Discretionary,Perrigo
-PPG daily returns,-0.11672075661411939,0.33197259343529817,PPG,Materials,Pfizer Inc.
-PFG daily returns,-0.22934890031412697,0.47548227792654524,PFG,Financials,PG&E Corp.
-PG daily returns,0.23002163173265788,0.29076828792554493,PG,Consumer Staples,Philip Morris International
-PGR daily returns,0.27760666235709075,0.3196668013338455,PGR,Financials,Phillips 66
-PLD daily returns,0.305000302917411,0.362198588413416,PLD,Real Estate,Pinnacle West Capital
-PRU daily returns,-0.27402486228115386,0.49102411799587026,PRU,Financials,Pioneer Natural Resources
-PEG daily returns,-0.03170028559025066,0.2824109359932049,PEG,Utilities,PNC Financial Services
-PSA daily returns,0.044750379891969595,0.2844660657642451,PSA,Real Estate,Polo Ralph Lauren Corp.
-PHM daily returns,-0.05066554545508621,0.4766292569573697,PHM,Consumer Discretionary,PPG Industries
-PVH daily returns,-0.624550690442913,0.5801143789261555,PVH,Consumer Discretionary,PPL Corp.
-QRVO daily returns,0.28142177511084004,0.4859604547008151,QRVO,Information Technology,Praxair Inc.
-QCOM daily returns,0.2698420150038402,0.4823448257631781,QCOM,Information Technology,Principal Financial Group
-PWR daily returns,0.12318781992841181,0.38245705988104683,PWR,Industrials,Procter & Gamble
-DGX daily returns,0.02031008163152004,0.3119868030692901,DGX,Health Care,Progressive Corp.
-RRC daily returns,-0.8461924588142361,0.8283471748449092,RRC,Energy,Prologis
-RJF daily returns,-0.0529194053713506,0.42971473192247045,RJF,Financials,Prudential Financial
-RTN daily returns,-0.08235243430909849,0.38802489573309,RTN,Industrials,Public Serv. Enterprise Inc.
-O daily returns,-0.09991649022483591,0.4493809487477579,O,Real Estate,Public Storage
-REG daily returns,-0.2939019177999216,0.3700550205512412,REG,Real Estate,Pulte Homes Inc.
-REGN daily returns,0.29493177327471576,0.366582047922439,REGN,Health Care,PVH Corp.
-RF daily returns,-0.2301539498540759,0.48144344167153824,RF,Financials,Qorvo
-RSG daily returns,0.08568261709442027,0.2752412432028215,RSG,Industrials,QUALCOMM Inc.
-RMD daily returns,0.3332885815489151,0.451869190444722,RMD,Health Care,Quanta Services Inc.
-RHI daily returns,-0.2294630992019467,0.3807489089459338,RHI,Industrials,Quest Diagnostics
-ROK daily returns,0.10101580953464406,0.43875658997775935,ROK,Industrials,Range Resources Corp.
-ROP daily returns,0.1512167716759505,0.33995601262122555,ROP,Industrials,Raymond James Financial Inc.
-ROST daily returns,0.047698007035695336,0.39719563788057805,ROST,Consumer Discretionary,Raytheon Co.
-RCL daily returns,-0.777318861966999,0.7018492419970543,RCL,Consumer Discretionary,Realty Income Corporation
-SPGI daily returns,0.35270784124565085,0.3848036005536736,SPGI,Financials,Regency Centers Corporation
-SLB daily returns,-0.5588215425160944,0.5588938957477216,SLB,Energy,Regeneron
-SRE daily returns,0.07397547856028286,0.3546640838763383,SRE,Utilities,Regions Financial Corp.
-SHW daily returns,0.13643263914281567,0.3599964406820675,SHW,Materials,Republic Services Inc
-SWKS daily returns,0.30196626665217946,0.4941431460624348,SWKS,Information Technology,ResMed
-SLG daily returns,-0.41967310310765155,0.41872004920332145,SLG,Real Estate,Robert Half International
-SNA daily returns,-0.20258271420055038,0.3475680587334427,SNA,Consumer Discretionary,Rockwell Automation Inc.
-SO daily returns,0.24072309478788148,0.36483575858594247,SO,Utilities,Rockwell Collins
-SWK daily returns,-0.04338943818291563,0.5264682351626592,SWK,Consumer Discretionary,Roper Technologies
-SBUX daily returns,0.08688535946994688,0.36434685786311133,SBUX,Consumer Discretionary,Ross Stores
-STT daily returns,-0.034285226836088964,0.45925509015206956,STT,Financials,Royal Caribbean Cruises Ltd
-SRCL daily returns,0.2789009565165622,0.4694222634434393,SRCL,Industrials,"S&P Global, Inc."
-SYK daily returns,0.05754307338241569,0.3761681884895404,SYK,Health Care,Salesforce.com
-SIVB daily returns,-0.10630413491935861,0.5155908382496434,SIVB,Financials,SBA Communications
-SYF daily returns,-0.2519056449355933,0.5113815655043654,SYF,Financials,SCANA Corp
-SNPS daily returns,0.3925092327687961,0.34809849193529663,SNPS,Information Technology,Schlumberger Ltd.
-SYY daily returns,-0.17614098824722912,0.4826828148506959,SYY,Consumer Staples,Seagate Technology
-TROW daily returns,0.15764473168182994,0.40551361271758896,TROW,Financials,Sealed Air
-TTWO daily returns,0.18371178036391872,0.40282582465459343,TTWO,Information Technology,Sempra Energy
-TPR daily returns,-0.6692568317371064,0.660282683771755,TPR,Consumer Discretionary,Sherwin-Williams
-TGT daily returns,0.3864052638627835,0.3893356970844846,TGT,Consumer Discretionary,Simon Property Group Inc
-FTI daily returns,-0.5557388796006442,0.6012004618517751,FTI,Energy,Skyworks Solutions
-TXN daily returns,0.14779677778414577,0.383474155701405,TXN,Information Technology,SL Green Realty
-CLX daily returns,0.19269647819935196,0.26906565886652256,CLX,Consumer Staples,Snap-On Inc.
-COO daily returns,0.13604495113853396,0.3180635548376878,COO,Health Care,Southern Co.
-HSY daily returns,0.24963710518397386,0.3244906455731226,HSY,Consumer Staples,Southwest Airlines
-MOS daily returns,-0.6179912411060581,0.6097812040757016,MOS,Materials,Stanley Black & Decker
-TRV daily returns,-0.060522140137099716,0.36538923163266446,TRV,Financials,Starbucks Corp.
-DIS daily returns,-0.02704524384476699,0.36859994383583605,DIS,Consumer Discretionary,State Street Corp.
-TMO daily returns,0.2498399764894532,0.3094601030254699,TMO,Health Care,Stericycle Inc
-TIF daily returns,0.4625993248997331,0.4065535133653622,TIF,Consumer Discretionary,Stryker Corp.
-TJX daily returns,0.08634466402313877,0.3626166537273408,TJX,Consumer Discretionary,SunTrust Banks
-TSCO daily returns,0.09601431135232898,0.3158861485581601,TSCO,Consumer Discretionary,SVB Financial
-TRIP daily returns,-0.707130663370525,0.4996120369494992,TRIP,Consumer Discretionary,Synchrony Financial
-TSN daily returns,0.12507765206859753,0.40064978138617535,TSN,Consumer Staples,Synopsys Inc.
-USB daily returns,-0.17952266004929485,0.37932871383721906,USB,Financials,Sysco Corp.
-UDR daily returns,-0.03867163037644854,0.3205846367621071,UDR,Real Estate,T. Rowe Price Group
-ULTA daily returns,-0.17691242511877708,0.5696281054524344,ULTA,Consumer Discretionary,Take-Two Interactive
-UAA daily returns,-0.4638847300847481,0.5476178965677185,UAA,Consumer Discretionary,"Tapestry, Inc."
-UNP daily returns,0.09901605436798899,0.36904929799882175,UNP,Industrials,Target Corp.
-UAL daily returns,-0.7725106164034914,0.631377092450813,UAL,Industrials,TE Connectivity Ltd.
-UNH daily returns,0.06051473321886016,0.4151458425550683,UNH,Health Care,TechnipFMC
-UPS daily returns,0.04155672637816235,0.32163715716116026,UPS,Industrials,Texas Instruments
-URI daily returns,0.10146276205196827,0.5562854676968932,URI,Industrials,Textron Inc.
-UTX daily returns,-0.050809328375487885,0.3907660579104993,UTX,Industrials,The Bank of New York Mellon Corp.
-UHS daily returns,-0.07218156511926112,0.49875261309054814,UHS,Health Care,The Clorox Company
-UNM daily returns,-0.4325045720486136,0.578890161202369,UNM,Financials,The Cooper Companies
-VFC daily returns,-0.13100330417453884,0.42186028183875357,VFC,Consumer Discretionary,The Hershey Company
-VLO daily returns,-0.2970544701694467,0.502767902862439,VLO,Energy,The Mosaic Company
-VAR daily returns,-0.05709845066109152,0.3613075212419124,VAR,Health Care,The Travelers Companies Inc.
-VTR daily returns,-0.49187494837991474,0.5962712074175917,VTR,Real Estate,The Walt Disney Company
-VRSN daily returns,0.21325164292814616,0.34748472039366685,VRSN,Information Technology,Thermo Fisher Scientific
-VRSK daily returns,0.26218038730837145,0.31769456278552616,VRSK,Industrials,Tiffany & Co.
-VZ daily returns,0.04231635596955652,0.22544239729474227,VZ,Telecommunication Services,TJX Companies Inc.
-VRTX daily returns,0.33881957039793476,0.35256209168669667,VRTX,Health Care,Tractor Supply Company
-V daily returns,0.19165104743209377,0.33705807202313987,V,Information Technology,TransDigm Group
-VNO daily returns,-0.35416121682610724,0.3895828361385665,VNO,Real Estate,TripAdvisor
-VMC daily returns,0.16282472196053766,0.3923494102043068,VMC,Materials,Twenty-First Century Fox Class A
-WMT daily returns,0.21695715713646485,0.2528357131858233,WMT,Consumer Staples,Twenty-First Century Fox Class B
-WBA daily returns,-0.3122401538294549,0.3836524979233153,WBA,Consumer Staples,Tyson Foods
-WM daily returns,0.0677083927684314,0.2757853274846567,WM,Industrials,U.S. Bancorp
-WAT daily returns,0.07078217054044407,0.3484765329106068,WAT,Health Care,UDR Inc
-WEC daily returns,0.28341958275411994,0.3420479306448597,WEC,Utilities,Ulta Beauty
-WFC daily returns,-0.34786063351029006,0.4066722003712146,WFC,Financials,Under Armour Class A
-WELL daily returns,-0.26063592059316826,0.4818508593813079,WELL,Real Estate,Under Armour Class C
-WDC daily returns,0.23702023471481767,0.6053960526703761,WDC,Information Technology,Union Pacific
-WRK daily returns,-0.12687927067610333,0.4851579361671289,WRK,Materials,United Continental Holdings
-WY daily returns,-0.057765130258024565,0.5085637195239251,WY,Real Estate,United Health Group Inc.
-WHR daily returns,-0.06604533761550328,0.5082439228757296,WHR,Consumer Discretionary,United Parcel Service
-WMB daily returns,-0.1736690365581569,0.4988981295281894,WMB,Energy,"United Rentals, Inc."
-WYNN daily returns,-0.3054219775515795,0.6114869400058964,WYNN,Consumer Discretionary,United Technologies
-XRX daily returns,0.0896827880894354,0.4740391952894323,XRX,Information Technology,"Universal Health Services, Inc."
-XLNX daily returns,0.04288400085197654,0.4657904496528764,XLNX,Information Technology,Unum Group
-XYL daily returns,0.03166652962536825,0.3688827714188809,XYL,Industrials,V.F. Corp.
-YUM daily returns,-0.18815181446102747,0.343256233837215,YUM,Consumer Discretionary,Valero Energy
-ZBH daily returns,-0.010241437357687832,0.3669418105811347,ZBH,Health Care,Varian Medical Systems
-ZION daily returns,-0.2894246824012562,0.3428756354531458,ZION,Financials,Ventas Inc
-ZTS daily returns,0.28158703709328475,0.3241983683271796,ZTS,Health Care,Verisign Inc.
+MMM daily returns,-0.11021944660809617,0.34027287849104754,MMM,Industrials,3M Company
+AOS daily returns,0.006946450119585782,0.314143715138108,AOS,Industrials,A.O. Smith Corp
+ABT daily returns,0.23644738978642263,0.3231237951871406,ABT,Health Care,Abbott Laboratories
+ABBV daily returns,0.03623971104131955,0.3398176862363505,ABBV,Health Care,AbbVie Inc.
+ACN daily returns,0.2516512603031906,0.3282664353105589,ACN,Information Technology,Accenture plc
+ATVI daily returns,0.28543891494041324,0.4022356426501599,ATVI,Information Technology,Activision Blizzard
+AYI daily returns,-0.05804303166638566,0.47430197035707555,AYI,Industrials,Acuity Brands Inc
+ADBE daily returns,0.35110248638837344,0.3891560217347593,ADBE,Information Technology,Adobe Systems Inc
+AAP daily returns,-0.2150984495536126,0.4171768744238699,AAP,Consumer Discretionary,Advance Auto Parts
+AMD daily returns,0.9218919303897306,0.6012885385380953,AMD,Information Technology,Advanced Micro Devices Inc
+AES daily returns,0.1565813209147769,0.43241948094563787,AES,Utilities,AES Corp
+AMG daily returns,-0.1759470821437421,0.4787171127455507,AMG,Financials,Affiliated Managers Group Inc
+AFL daily returns,-0.02059981799371402,0.44866599053302403,AFL,Financials,AFLAC Inc
+A daily returns,0.20541590503072588,0.34016623806987767,A,Health Care,Agilent Technologies Inc
+APD daily returns,0.33691856285261007,0.35894024168879685,APD,Materials,Air Products & Chemicals Inc
+AKAM daily returns,0.42780280723638925,0.31387093473802186,AKAM,Information Technology,Akamai Technologies Inc
+ALK daily returns,-0.36481334516946257,0.5120941205577976,ALK,Industrials,Alaska Air Group Inc
+ALB daily returns,0.022956049588434682,0.49558315808223474,ALB,Materials,Albemarle Corp
+ARE daily returns,0.36112216490170584,0.3429913258162143,ARE,Real Estate,Alexandria Real Estate Equities Inc
+ALXN daily returns,0.06469484505502845,0.39813961686509836,ALXN,Health Care,Alexion Pharmaceuticals
+ALGN daily returns,0.1442331719333454,0.5900649816785604,ALGN,Health Care,Align Technology
+ALLE daily returns,0.2008962375405305,0.3519768043420278,ALLE,Industrials,Allegion
+AGN daily returns,0.3042199942121721,0.3414492447496496,AGN,Health Care,"Allergan, Plc"
+ADS daily returns,-0.8176109119574677,0.711920624746583,ADS,Information Technology,Alliance Data Systems
+LNT daily returns,0.2772100726945744,0.3079528944869436,LNT,Utilities,Alliant Energy Corp
+ALL daily returns,0.2412554358844674,0.34227771691228903,ALL,Financials,Allstate Corp
+GOOGL daily returns,0.16097418560500243,0.33132253440092657,GOOGL,Information Technology,Alphabet Inc Class A
+GOOG daily returns,0.17093293125136882,0.3321454611950006,GOOG,Information Technology,Alphabet Inc Class C
+MO daily returns,-0.019014250442789822,0.33169636410310877,MO,Consumer Staples,Altria Group Inc
+AMZN daily returns,0.26441083815018496,0.28830379171984244,AMZN,Consumer Discretionary,Amazon.com Inc.
+AEE daily returns,0.25971610163756226,0.35518587075967384,AEE,Utilities,Ameren Corp
+AAL daily returns,-0.5132578139192127,0.6734727030577031,AAL,Industrials,American Airlines Group
+AEP daily returns,0.2100494822338489,0.30746825378902,AEP,Utilities,American Electric Power
+AXP daily returns,0.11530167719480888,0.4602577903679584,AXP,Financials,American Express Co
+AIG daily returns,-0.1476737185532934,0.5177623931822065,AIG,Financials,"American International Group, Inc."
+AMT daily returns,0.4796126740452385,0.3646624190063659,AMT,Real Estate,American Tower Corp A
+AWK daily returns,0.39178931578245113,0.35767342361466586,AWK,Utilities,American Water Works Company Inc
+AMP daily returns,0.27158842936082933,0.5640874393995686,AMP,Financials,Ameriprise Financial
+ABC daily returns,0.22249276842098836,0.38657979784663504,ABC,Health Care,AmerisourceBergen Corp
+AME daily returns,0.19799457425726275,0.38387369040088437,AME,Industrials,AMETEK Inc.
+AMGN daily returns,0.1812043325278272,0.3210783623023793,AMGN,Health Care,Amgen Inc.
+APH daily returns,0.08845626211338162,0.3368157535345561,APH,Information Technology,Amphenol Corp
+ADI daily returns,0.23091372800074944,0.447547968578292,ADI,Information Technology,"Analog Devices, Inc."
+ANSS daily returns,0.4762656511884116,0.3898960141290612,ANSS,Information Technology,ANSYS
+ANTM daily returns,0.08468986368665417,0.47435428485524384,ANTM,Health Care,Anthem Inc.
+AON daily returns,0.29292579453232015,0.337167037481273,AON,Financials,Aon plc
+APA daily returns,-0.3824609631993983,0.9473587285313008,APA,Energy,Apache Corporation
+AIV daily returns,0.08187399950248167,0.4322984614015486,AIV,Real Estate,Apartment Investment & Management
+AAPL daily returns,0.5044374219411535,0.3842026666011013,AAPL,Information Technology,Apple Inc.
+AMAT daily returns,0.46528429469000077,0.5238172184655588,AMAT,Information Technology,Applied Materials Inc.
+APTV daily returns,0.21214029007400592,0.5971404675278629,APTV,Consumer Discretionary,Aptiv Plc
+ADM daily returns,0.017839035634392937,0.32317773013796275,ADM,Consumer Staples,Archer-Daniels-Midland Co
+ARNC daily returns,-0.07333316370728563,0.8056173208678992,ARNC,Industrials,Arconic Inc.
+AJG daily returns,0.22351541537359995,0.331561993161324,AJG,Financials,Arthur J. Gallagher & Co.
+AIZ daily returns,0.2661295810578937,0.37067965918150086,AIZ,Financials,Assurant Inc.
+T daily returns,0.14887532831431477,0.3014280522174276,T,Telecommunication Services,AT&T Inc.
+ADSK daily returns,0.28807032684902295,0.43481883777915253,ADSK,Information Technology,Autodesk Inc.
+ADP daily returns,0.15704910837497585,0.35818156642871685,ADP,Information Technology,Automatic Data Processing
+AZO daily returns,0.16003901983082475,0.36852831985970746,AZO,Consumer Discretionary,AutoZone Inc
+AVB daily returns,0.09499063636489609,0.37694940142629085,AVB,Real Estate,"AvalonBay Communities, Inc."
+AVY daily returns,0.29100663679710853,0.3998756270475388,AVY,Materials,Avery Dennison Corp
+BLL daily returns,0.42091807016226646,0.346104689402366,BLL,Materials,Ball Corp
+BAC daily returns,0.11661767041892158,0.4413063578200418,BAC,Financials,Bank of America Corp
+BAX daily returns,0.2882921014415971,0.32495244981726923,BAX,Health Care,Baxter International Inc.
+BDX daily returns,0.1548000266346936,0.3160050415760766,BDX,Health Care,Becton Dickinson
+BBY daily returns,0.29696757370785654,0.4571291687781417,BBY,Consumer Discretionary,Best Buy Co. Inc.
+BIIB daily returns,0.17705255526546435,0.5163103883391819,BIIB,Health Care,Biogen Inc.
+BLK daily returns,0.2619558718795351,0.4048224367321667,BLK,Financials,BlackRock
+HRB daily returns,-0.27469961502378043,0.4473076254797551,HRB,Financials,Block H&R
+BA daily returns,-0.3697005249488707,0.6338131845014805,BA,Industrials,Boeing Company
+BKNG daily returns,-0.07692253388899416,0.3839106053392681,BKNG,Consumer Discretionary,Booking Holdings Inc
+BWA daily returns,-0.13620512391549885,0.4248937164937312,BWA,Consumer Discretionary,BorgWarner
+BXP daily returns,0.0788639405507759,0.3706837335851804,BXP,Real Estate,Boston Properties
+BSX daily returns,0.1151184198514135,0.3509155692526581,BSX,Health Care,Boston Scientific
+BHF daily returns,0.12685281775786483,0.6908595215051071,BHF,Financials,Brighthouse Financial Inc
+BMY daily returns,0.1760807330964317,0.2996399674459409,BMY,Health Care,Bristol-Myers Squibb
+AVGO daily returns,0.1579563679727495,0.46969014392697406,AVGO,Information Technology,Broadcom
+CHRW daily returns,-0.028403165576223355,0.2975451075453798,CHRW,Industrials,C. H. Robinson Worldwide
+COG daily returns,-0.0653203684764318,0.425836715772115,COG,Energy,"CA, Inc."
+CDNS daily returns,0.4745821535853861,0.3914647153400636,CDNS,Information Technology,Cabot Oil & Gas
+CPB daily returns,0.394160970924522,0.30491002380256965,CPB,Consumer Staples,Cadence Design Systems
+COF daily returns,-0.04123540614267754,0.5212121742490693,COF,Financials,Campbell Soup
+CAH daily returns,0.20197724661180125,0.38591529715753997,CAH,Health Care,Capital One Financial
+KMX daily returns,0.15350404185916824,0.46823121525233236,KMX,Consumer Discretionary,Cardinal Health Inc.
+CCL daily returns,-0.7165026128648198,0.7818477590413729,CCL,Consumer Discretionary,Carmax Inc
+CAT daily returns,0.08801161186380792,0.3697650532389497,CAT,Industrials,Carnival Corp.
+CBOE daily returns,0.05166176331710085,0.34458119142659255,CBOE,Financials,Caterpillar Inc.
+CBRE daily returns,0.20523025210046947,0.44519850293419616,CBRE,Real Estate,Cboe Global Markets
+CNC daily returns,0.2475608660859947,0.49174931696934027,CNC,Health Care,CBRE Group
+CNP daily returns,-0.20404915478119187,0.46612557539844574,CNP,Utilities,CBS Corp.
+CTL daily returns,-0.08495234563931918,0.5013819915570605,CTL,Telecommunication Services,Celgene Corp.
+CERN daily returns,0.26055709443309727,0.2642279317392305,CERN,Health Care,Centene Corporation
+CF daily returns,-0.10156269033357711,0.4686677290195428,CF,Materials,CenterPoint Energy
+SCHW daily returns,0.011793707782011432,0.4449145153353977,SCHW,Financials,CenturyLink Inc
+CHTR daily returns,0.43026791847856566,0.3169769444146337,CHTR,Consumer Discretionary,Cerner
+CVX daily returns,-0.06174501447333847,0.46821758425080595,CVX,Energy,CF Industries Holdings Inc
+CMG daily returns,0.5244118114774868,0.4223352829332169,CMG,Consumer Discretionary,Charles Schwab Corporation
+CB daily returns,0.051593504457307024,0.34667136954202776,CB,Financials,Charter Communications
+CHD daily returns,0.10086348703166931,0.28843422066126484,CHD,Consumer Staples,Chevron Corp.
+CI daily returns,0.081925671741744,0.45636767961733427,CI,Health Care,Chipotle Mexican Grill
+XEC daily returns,-0.6742564713589845,0.7453773425564741,XEC,Energy,Chubb Limited
+CINF daily returns,0.17771125663024123,0.38968438173697917,CINF,Financials,Church & Dwight
+CTAS daily returns,0.22360249925891607,0.3980334272380049,CTAS,Industrials,CIGNA Corp.
+CSCO daily returns,0.06937081476065456,0.3666139667754949,CSCO,Information Technology,Cimarex Energy
+C daily returns,0.05502593963069052,0.4929937395402035,C,Financials,Cincinnati Financial
+CFG daily returns,-0.06835243104154384,0.5342171783252562,CFG,Financials,Cintas Corporation
+CTXS daily returns,0.2983973523628296,0.2878366052276504,CTXS,Information Technology,Cisco Systems
+CME daily returns,0.12405053614392762,0.3947247673616087,CME,Financials,Citigroup Inc.
+CMS daily returns,0.27756137463845526,0.3191164342037049,CMS,Utilities,Citizens Financial Group
+KO daily returns,0.10618081953787759,0.28406822905094276,KO,Consumer Staples,Citrix Systems
+CTSH daily returns,-0.022115372940987914,0.40895946044294074,CTSH,Information Technology,CME Group Inc.
+CL daily returns,0.1951765130022557,0.28555886981640455,CL,Consumer Staples,CMS Energy
+CMCSA daily returns,0.1498204216133315,0.3182232096752361,CMCSA,Consumer Discretionary,Coca-Cola Company (The)
+CMA daily returns,-0.37514980179068735,0.49729454432644116,CMA,Financials,Cognizant Technology Solutions
+CAG daily returns,0.4411385476298366,0.4030488578557107,CAG,Consumer Staples,Colgate-Palmolive
+CXO daily returns,-0.3699503990349368,0.5899007651314043,CXO,Energy,Comcast Corp.
+COP daily returns,-0.29846133626232113,0.5466574288273053,COP,Energy,Comerica Inc.
+ED daily returns,0.2124635136355461,0.33140261003705523,ED,Utilities,Conagra Brands
+STZ daily returns,0.10958224698128738,0.4082336898955131,STZ,Consumer Staples,Concho Resources
+GLW daily returns,-0.14617864548949336,0.43900531416351274,GLW,Information Technology,ConocoPhillips
+COST daily returns,0.3422736763242984,0.25474936800842823,COST,Consumer Staples,Consolidated Edison
+COTY daily returns,0.23157596093235622,0.7757161028525247,COTY,Consumer Staples,Constellation Brands
+CCI daily returns,0.4394872038362084,0.35017955273545376,CCI,Real Estate,Corning Inc.
+CSX daily returns,0.11663189824506312,0.3927789847024307,CSX,Industrials,Costco Wholesale Corp.
+CMI daily returns,0.19291986400029296,0.3691521349396686,CMI,Industrials,"Coty, Inc"
+CVS daily returns,0.030856174847723468,0.35484721449667583,CVS,Consumer Staples,Crown Castle International Corp.
+DHI daily returns,0.2358329391172199,0.4501569363766412,DHI,Consumer Discretionary,CSX Corp.
+DHR daily returns,0.34217565039893877,0.2990500742117328,DHR,Health Care,Cummins Inc.
+DRI daily returns,-0.11373789353737464,0.6398173437036961,DRI,Consumer Discretionary,CVS Health
+DVA daily returns,0.36696098256790344,0.39177924955576077,DVA,Health Care,D. R. Horton
+DE daily returns,0.08317809192609893,0.3904850337124974,DE,Industrials,Danaher Corp.
+DAL daily returns,-0.39305491109414986,0.528828019475541,DAL,Industrials,Darden Restaurants
+XRAY daily returns,0.14996588811021994,0.3599630079585268,XRAY,Health Care,DaVita Inc.
+DVN daily returns,-0.38577952869246596,0.7303870994400679,DVN,Energy,Deere & Co.
+DLR daily returns,0.38153581287147526,0.3512671346693922,DLR,Real Estate,Delta Air Lines Inc.
+DFS daily returns,-0.10867642749254677,0.6144033670817773,DFS,Financials,Dentsply Sirona
+DISCA daily returns,-0.03695696134083086,0.3943824801969691,DISCA,Consumer Discretionary,Devon Energy Corp.
+DISCK daily returns,-0.058592144868442345,0.3833322955177104,DISCK,Consumer Discretionary,Digital Realty Trust Inc
+DISH daily returns,0.04905299506445323,0.5262398940883676,DISH,Consumer Discretionary,Discover Financial Services
+DG daily returns,0.40895519107639744,0.2917889077223179,DG,Consumer Discretionary,Discovery Inc. Class A
+DLTR daily returns,-0.042033982337155607,0.4084133389398778,DLTR,Consumer Discretionary,Discovery Inc. Class C
+D daily returns,0.2216482846137071,0.37108199718781953,D,Utilities,Dish Network
+DOV daily returns,0.278593066995221,0.39775229908019555,DOV,Industrials,Dollar General
+DTE daily returns,0.12987337961421186,0.37930819328197923,DTE,Utilities,Dollar Tree
+DUK daily returns,0.14680604401298586,0.33256785219414653,DUK,Utilities,Dominion Energy
+DRE daily returns,0.3736650415213605,0.3752102012671221,DRE,Real Estate,Dover Corp.
+DXC daily returns,-0.5997844890726065,0.816475038241537,DXC,Information Technology,DTE Energy Co.
+ETFC daily returns,0.11963820958963596,0.5619821419703364,ETFC,Financials,Duke Energy
+EMN daily returns,-0.029681048633416494,0.42676179757759497,EMN,Materials,Duke Realty Corp
+ETN daily returns,0.7878717000541156,0.7411258995771819,ETN,Industrials,DXC Technology
+EBAY daily returns,0.1879490530085513,0.30681995729696143,EBAY,Information Technology,E*Trade
+ECL daily returns,0.2515275445349926,0.38227009214674457,ECL,Materials,Eastman Chemical
+EIX daily returns,0.16334471521134575,0.39686921523772684,EIX,Utilities,Eaton Corporation
+EW daily returns,0.36204433521959867,0.3847145492918663,EW,Health Care,eBay Inc.
+EA daily returns,0.29873087871774223,0.40769697758169127,EA,Information Technology,Ecolab Inc.
+EMR daily returns,0.012356544000599667,0.43397409847906626,EMR,Industrials,Edison Int'l
+ETR daily returns,0.2634331520225934,0.37117861431489513,ETR,Utilities,Edwards Lifesciences
+EOG daily returns,-0.3743592220836536,0.5598899896778375,EOG,Energy,Electronic Arts
+EQT daily returns,-0.2130448012351471,0.7304838829890878,EQT,Energy,Emerson Electric Company
+EFX daily returns,0.29149567870075327,0.32239468061429516,EFX,Industrials,Entergy Corp.
+EQIX daily returns,0.6104465535192785,0.3477998338566908,EQIX,Real Estate,EOG Resources
+EQR daily returns,0.15644417500051588,0.3402298241548512,EQR,Real Estate,EQT Corporation
+ESS daily returns,0.12773753046946867,0.3584275842582648,ESS,Real Estate,Equifax Inc.
+EL daily returns,0.2526098584800225,0.36767773397040493,EL,Consumer Staples,Equinix
+RE daily returns,0.08502626296433327,0.36129908586963233,RE,Financials,Equity Residential
+ES daily returns,0.37012857544965666,0.36902431599514585,ES,Utilities,"Essex Property Trust, Inc."
+EXC daily returns,0.012281941901614798,0.3887339527903315,EXC,Utilities,Estee Lauder Cos.
+EXPE daily returns,-0.3005636888721629,0.5238330661964553,EXPE,Consumer Discretionary,Everest Re Group Ltd.
+EXPD daily returns,0.10108871085597505,0.2933969794673792,EXPD,Industrials,Eversource Energy
+EXR daily returns,0.20839010286796145,0.3006827758680451,EXR,Real Estate,Exelon Corp.
+XOM daily returns,-0.26794952541010864,0.34930823012111195,XOM,Energy,Expedia Inc.
+FFIV daily returns,-0.13868370409139616,0.342876326178842,FFIV,Information Technology,Expeditors International
+FB daily returns,0.27041724561662717,0.37091578327764696,FB,Information Technology,Extra Space Storage
+FAST daily returns,0.3140894365146802,0.3826595447925307,FAST,Industrials,Exxon Mobil Corp.
+FRT daily returns,-0.1183533924363203,0.3977718415879775,FRT,Real Estate,F5 Networks
+FDX daily returns,-0.1113644170586033,0.44210204188022306,FDX,Industrials,"Facebook, Inc."
+FIS daily returns,0.2461888899488785,0.37239932626375105,FIS,Information Technology,Fastenal Co
+FITB daily returns,-0.05780085100249191,0.5312885994484329,FITB,Financials,Federal Realty Investment Trust
+FE daily returns,0.25426343129887863,0.3585379901359157,FE,Utilities,FedEx Corporation
+FISV daily returns,0.3256454246519656,0.3864798326160584,FISV,Information Technology,Fidelity National Information Services
+FLIR daily returns,-0.06579804984277444,0.4303785968426739,FLIR,Information Technology,Fifth Third Bancorp
+FLS daily returns,-0.14136796198098794,0.4480701412619525,FLS,Industrials,FirstEnergy Corp
+FLR daily returns,-0.6041897125718222,1.0388085856482294,FLR,Industrials,Fiserv Inc
+FMC daily returns,0.379973042539408,0.4567364499518526,FMC,Materials,FLIR Systems
+FL daily returns,-0.41190938561781176,0.5328975190884886,FL,Consumer Discretionary,Flowserve Corporation
+F daily returns,-0.14579644885998855,0.43861540491943485,F,Consumer Discretionary,Fluor Corp.
+FTV daily returns,-0.004670692589937995,0.3716280455599628,FTV,Industrials,FMC Corporation
+FBHS daily returns,0.3353465817640085,0.44654332822362347,FBHS,Industrials,Foot Locker Inc
+BEN daily returns,-0.3314787277733218,0.4003008010199922,BEN,Financials,Ford Motor
+FCX daily returns,0.023298078863465112,0.6206637077625791,FCX,Materials,Fortive Corp
+GPS daily returns,-0.5309070141284237,0.6542284850612238,GPS,Consumer Discretionary,Fortune Brands Home & Security
+GRMN daily returns,0.26512415013148716,0.3435140883390105,GRMN,Consumer Discretionary,Franklin Resources
+IT daily returns,-0.04548484863084202,0.40323207132081784,IT,Information Technology,Freeport-McMoRan Inc.
+GD daily returns,-0.006848392688190026,0.31475523790302395,GD,Industrials,Gap Inc.
+GE daily returns,0.08050351298582714,0.5290349587628014,GE,Industrials,Garmin Ltd.
+GIS daily returns,0.40009932464838044,0.27711299797784894,GIS,Consumer Staples,Gartner Inc
+GM daily returns,-0.11651685220568711,0.45682456546399813,GM,Consumer Discretionary,General Dynamics
+GPC daily returns,-0.10410101446675982,0.4151058820846403,GPC,Consumer Discretionary,General Electric
+GILD daily returns,0.20022168776083446,0.3081510106201882,GILD,Health Care,General Mills
+GPN daily returns,0.4074137241070926,0.44055118738033183,GPN,Information Technology,General Motors
+GS daily returns,0.16345302962818567,0.42187378196544256,GS,Financials,Genuine Parts
+GT daily returns,-0.5802342977459809,0.5588197705596941,GT,Consumer Discretionary,Gilead Sciences
+GWW daily returns,0.10298187138662099,0.38610645648357744,GWW,Industrials,Global Payments Inc.
+HAL daily returns,-0.6498677937852505,0.6913529723362496,HAL,Energy,Goldman Sachs Group
+HBI daily returns,-0.06764252469367216,0.48687042440047773,HBI,Consumer Discretionary,Goodyear Tire & Rubber
+HOG daily returns,-0.17632541535466106,0.5657807636777236,HOG,Consumer Discretionary,Grainger (W.W.) Inc.
+HIG daily returns,0.10796464216583924,0.47661706630413136,HIG,Financials,Halliburton Co.
+HAS daily returns,0.09911108778769694,0.48238052059800307,HAS,Consumer Discretionary,Hanesbrands Inc
+HCA daily returns,0.03381206161217027,0.4810146671811267,HCA,Health Care,Harley-Davidson
+HP daily returns,-0.39532938994446826,0.6979891083163711,HP,Energy,Hartford Financial Svc.Gp.
+HSIC daily returns,-0.052096965356082124,0.3329955985145483,HSIC,Health Care,Hasbro Inc.
+HES daily returns,0.16864794700831584,0.5922673665469775,HES,Energy,HCA Holdings
+HPE daily returns,-0.0716489902095469,0.4204909241587827,HPE,Information Technology,Helmerich & Payne
+HLT daily returns,0.0506703398941754,0.3793986299822182,HLT,Consumer Discretionary,Henry Schein
+HOLX daily returns,0.11871049897374887,0.3546430403332133,HOLX,Health Care,Hess Corporation
+HD daily returns,0.22142026472498236,0.3744665178901175,HD,Consumer Discretionary,Hewlett Packard Enterprise
+HON daily returns,0.1459814538205415,0.3455106697091594,HON,Industrials,Hilton Worldwide Holdings Inc
+HRL daily returns,0.17076223913246769,0.27299175725261504,HRL,Consumer Staples,Hologic
+HST daily returns,-0.12551752729938773,0.4058513217790429,HST,Real Estate,Home Depot
+HPQ daily returns,-0.0589240020807458,0.46092956085166414,HPQ,Information Technology,Honeywell Int'l Inc.
+HUM daily returns,0.27052060786589205,0.471085838291484,HUM,Health Care,Hormel Foods Corp.
+HBAN daily returns,-0.1011796194362177,0.4125032548194888,HBAN,Financials,Host Hotels & Resorts
+HII daily returns,0.07781275224318727,0.350789015236219,HII,Industrials,HP Inc.
+IDXX daily returns,0.3338475433446187,0.3440222212294386,IDXX,Health Care,Humana Inc.
+INFO daily returns,0.3260996503335444,0.3854609986240612,INFO,Industrials,Huntington Bancshares
+ITW daily returns,0.2772607608186164,0.37514676998751934,ITW,Industrials,Huntington Ingalls Industries
+ILMN daily returns,0.06739620497539267,0.411934074230296,ILMN,Health Care,IDEXX Laboratories
+IR daily returns,0.3557660530589628,0.4415295687595994,IR,Industrials,IHS Markit Ltd.
+IBM daily returns,0.14430056757108534,0.3386716907206566,IBM,Information Technology,Illinois Tool Works
+IP daily returns,-0.015096691532252189,0.4091043664489309,IP,Materials,Illumina Inc
+IPG daily returns,-0.04116052993617792,0.4151264067340189,IPG,Consumer Discretionary,Incyte
+IFF daily returns,0.04164653813703559,0.39826180459127764,IFF,Materials,Ingersoll-Rand PLC
+INTU daily returns,0.29438163552778196,0.40452815729509434,INTU,Information Technology,Intercontinental Exchange
+ISRG daily returns,0.1428685642416328,0.40444828895408247,ISRG,Health Care,International Business Machines
+IVZ daily returns,-0.256821264551334,0.5253035403265012,IVZ,Financials,International Paper
+IPGP daily returns,0.15948344867435543,0.5128059433698966,IPGP,Information Technology,Interpublic Group
+IQV daily returns,0.18332775744562257,0.4248926061185723,IQV,Health Care,Intl Flavors & Fragrances
+IRM daily returns,0.01045797650508188,0.3623912610501306,IRM,Real Estate,Intuit Inc.
+JBHT daily returns,0.12368413231652381,0.36170206841117875,JBHT,Industrials,Intuitive Surgical Inc.
+SJM daily returns,0.21656165745135117,0.2884201036555299,SJM,Consumer Staples,Invesco Ltd.
+JNJ daily returns,0.14302393536959496,0.2730641924637743,JNJ,Health Care,IPG Photonics Corp.
+JCI daily returns,0.08334472519389402,0.324950851681239,JCI,Industrials,IQVIA Holdings Inc.
+JPM daily returns,0.14704416408137455,0.4067957124913646,JPM,Financials,Iron Mountain Incorporated
+JNPR daily returns,-0.08999844930387041,0.31314358612926596,JNPR,Information Technology,J. B. Hunt Transport Services
+KSU daily returns,0.3763880882266353,0.425523068407063,KSU,Industrials,Jacobs Engineering Group
+KEY daily returns,0.02038076763102758,0.5497019542396421,KEY,Financials,JM Smucker
+KMB daily returns,0.19958577845846862,0.2877826297177171,KMB,Consumer Staples,Johnson & Johnson
+KIM daily returns,-0.06903955494515351,0.4332400148502365,KIM,Real Estate,Johnson Controls International
+KLAC daily returns,0.5460889295728736,0.5100947386989366,KLAC,Information Technology,JPMorgan Chase & Co.
+KSS daily returns,-0.6592327630235132,0.686577592776701,KSS,Consumer Discretionary,Juniper Networks
+KHC daily returns,-0.16678280236622126,0.4749702369797993,KHC,Consumer Staples,Kansas City Southern
+KR daily returns,0.17808222738039772,0.32866174030808276,KR,Consumer Staples,Kellogg Co.
+LB daily returns,-0.13136045834586269,0.7260426261925542,LB,Consumer Discretionary,KeyCorp
+LH daily returns,0.20894766625468544,0.4224411947865878,LH,Health Care,Kimberly-Clark
+LRCX daily returns,0.6616543583580722,0.5456552975142079,LRCX,Information Technology,Kimco Realty
+LEG daily returns,0.0046178604101335,0.47591613332781796,LEG,Consumer Discretionary,Kinder Morgan
+LEN daily returns,0.22704938823448223,0.515588250748398,LEN,Consumer Discretionary,KLA-Tencor Corp.
+LLY daily returns,0.25900184826908607,0.31737306938902854,LLY,Health Care,Kohl's Corp.
+LNC daily returns,-0.043551580062847685,0.6927430654998158,LNC,Financials,Kraft Heinz Co
+LKQ daily returns,0.09910978149765638,0.5282968067624126,LKQ,Consumer Discretionary,Kroger Co.
+LMT daily returns,0.3475021141346087,0.3353544251880801,LMT,Industrials,L Brands Inc.
+L daily returns,-0.01089702108626945,0.4201522486514354,L,Financials,Laboratory Corp. of America Holding
+LOW daily returns,0.14941210466896104,0.44781985566661736,LOW,Consumer Discretionary,Lam Research
+LYB daily returns,-0.08311477396866268,0.5278542263999518,LYB,Materials,Leggett & Platt
+MTB daily returns,-0.07294132839312811,0.41099961829840675,MTB,Financials,Lennar Corp.
+MAC daily returns,-0.8795262276908302,0.6457031057333827,MAC,Real Estate,Lilly (Eli) & Co.
+M daily returns,-0.905248899044909,0.6289922067066676,M,Consumer Discretionary,Lincoln National
+MPC daily returns,-0.4356559712967594,0.6052690809559936,MPC,Energy,LKQ Corporation
+MAR daily returns,-0.09876044377268513,0.46234797288593654,MAR,Consumer Discretionary,Lockheed Martin Corp.
+MMC daily returns,0.21705616165134187,0.3097940485917465,MMC,Financials,Loews Corp.
+MLM daily returns,0.2516912703719872,0.41745947499987485,MLM,Materials,Lowe's Cos.
+MAS daily returns,0.33465418246769174,0.38529899724483335,MAS,Industrials,LyondellBasell
+MA daily returns,0.3591640052436694,0.3927428161120448,MA,Information Technology,M&T Bank Corp.
+MAT daily returns,0.14954455251009546,0.6143808517904186,MAT,Consumer Discretionary,Macerich
+MKC daily returns,0.16419618071661346,0.3450473533084613,MKC,Consumer Staples,Macy's Inc.
+MCD daily returns,0.11586288990854697,0.34339523590007975,MCD,Consumer Discretionary,Marathon Oil Corp.
+MCK daily returns,0.21619214951154792,0.4062403811444379,MCK,Health Care,Marathon Petroleum
+MDT daily returns,0.18114149113855274,0.31648513750787327,MDT,Health Care,Marriott Int'l.
+MRK daily returns,0.13499990912246848,0.27796610792735604,MRK,Health Care,Marsh & McLennan
+MET daily returns,-0.009480923194575979,0.4506422769919241,MET,Financials,Martin Marietta Materials
+MTD daily returns,0.28739369674860316,0.3507763934408394,MTD,Health Care,Masco Corp.
+MGM daily returns,-0.1603923682023357,0.6970896318645063,MGM,Consumer Discretionary,Mastercard Inc.
+MCHP daily returns,0.23069987826547905,0.5278427179527518,MCHP,Information Technology,Mattel Inc.
+MU daily returns,0.42266530258925666,0.5511480076445826,MU,Information Technology,McCormick & Co.
+MSFT daily returns,0.46502389763117613,0.35995480648070927,MSFT,Information Technology,McDonald's Corp.
+MAA daily returns,0.2825448650435367,0.36528680783709183,MAA,Real Estate,McKesson Corp.
+MHK daily returns,-0.08592226242997175,0.5404124566635369,MHK,Consumer Discretionary,Medtronic plc
+MDLZ daily returns,0.27807236217830283,0.29534643914368824,MDLZ,Consumer Staples,Merck & Co.
+MNST daily returns,0.22718021026939594,0.33915465174836185,MNST,Consumer Staples,MetLife Inc.
+MCO daily returns,0.5269441612908733,0.42940957833956517,MCO,Financials,Mettler Toledo
+MSI daily returns,0.30745478671287846,0.3662959770190022,MSI,Information Technology,MGM Resorts International
+MYL daily returns,-0.30300639531049095,0.5025801735185726,MYL,Health Care,Microchip Technology
+NDAQ daily returns,0.2987852408520145,0.36094624464448927,NDAQ,Financials,Micron Technology
+NOV daily returns,-0.39873028269714744,0.6565777517586177,NOV,Energy,Microsoft Corp.
+NAVI daily returns,0.13575498216687215,0.5944904830713991,NAVI,Financials,Mid-America Apartments
+NKTR daily returns,-0.2259698652827356,0.6933843353383596,NKTR,Health Care,Mohawk Industries
+NTAP daily returns,-0.1282669629834927,0.4527150425037646,NTAP,Information Technology,Molson Coors Brewing Company
+NFLX daily returns,0.33765395969043527,0.40253155773070864,NFLX,Information Technology,Mondelez International
+NWL daily returns,-0.02035506568276397,0.5311383895658665,NWL,Consumer Discretionary,Monster Beverage
+NWSA daily returns,-0.05652296887278984,0.3686397310682784,NWSA,Consumer Discretionary,Moody's Corp
+NWS daily returns,-0.054523900707625014,0.3696587369090457,NWS,Consumer Discretionary,Morgan Stanley
+NEE daily returns,0.3685629589232694,0.33488322920486935,NEE,Utilities,Motorola Solutions Inc.
+NKE daily returns,0.19359583259548532,0.3417232699449288,NKE,Consumer Discretionary,Mylan N.V.
+NI daily returns,0.14049761305748357,0.36234127147774003,NI,Utilities,"Nasdaq, Inc."
+JWN daily returns,-0.3807436139987601,0.6401553315757064,JWN,Consumer Discretionary,National Oilwell Varco Inc.
+NSC daily returns,0.15093492178330753,0.40584853307675844,NSC,Industrials,Navient
+NTRS daily returns,0.12079006539653053,0.4102928092077615,NTRS,Financials,Nektar Therapeutics
+NOC daily returns,0.3202813647408808,0.34514677928307663,NOC,Industrials,NetApp
+NCLH daily returns,-0.5496240249344765,0.8437214519031923,NCLH,Consumer Discretionary,Netflix Inc.
+NRG daily returns,-0.0816052272519217,0.39533562580150267,NRG,Utilities,Newell Brands
+NUE daily returns,-0.1110111511394539,0.3925506419892848,NUE,Materials,Newfield Exploration Co
+NVDA daily returns,0.6647627412131222,0.536517571129052,NVDA,Information Technology,Newmont Mining Corporation
+ORLY daily returns,0.07527520282867028,0.37857968628460215,ORLY,Consumer Discretionary,News Corp. Class A
+OXY daily returns,-0.7061746719160894,0.7146298307947906,OXY,Energy,News Corp. Class B
+OMC daily returns,-0.10667986226234243,0.3273403720872399,OMC,Consumer Discretionary,NextEra Energy
+OKE daily returns,-0.19573737979795466,0.6936390504571922,OKE,Energy,Nielsen Holdings
+ORCL daily returns,0.21185338886893185,0.3617478297396125,ORCL,Information Technology,Nike
+PKG daily returns,0.13150314472243385,0.36430455029508063,PKG,Materials,NiSource Inc.
+PH daily returns,0.11092124343890909,0.4871291792274132,PH,Industrials,Noble Energy Inc
+PAYX daily returns,0.12514667997311557,0.393231407724947,PAYX,Information Technology,Nordstrom
+PNR daily returns,-0.005768495030999922,0.4129511874371438,PNR,Industrials,Norfolk Southern Corp.
+PBCT daily returns,-0.01099529606674772,0.42083890608445107,PBCT,Financials,Northern Trust Corp.
+PEP daily returns,0.23616908364406677,0.31395813596599087,PEP,Consumer Staples,Northrop Grumman Corp.
+PRGO daily returns,0.2826037786650581,0.43077979110428666,PRGO,Health Care,Norwegian Cruise Line
+PFE daily returns,-0.0808655120327145,0.2842504311451988,PFE,Health Care,NRG Energy
+PCG daily returns,0.44143850117891703,1.3937079885998183,PCG,Utilities,Nucor Corp.
+PM daily returns,0.21175504081717472,0.35443004510888265,PM,Consumer Staples,Nvidia Corporation
+PSX daily returns,-0.14606830894593714,0.4474952800391758,PSX,Energy,O'Reilly Automotive
+PNW daily returns,0.09084910247632191,0.3576187078892286,PNW,Utilities,Occidental Petroleum
+PXD daily returns,-0.22749768605284904,0.628545052023153,PXD,Energy,Omnicom Group
+PNC daily returns,0.010473992335794803,0.4291606045404602,PNC,Financials,ONEOK
+RL daily returns,-0.08530872958538302,0.4494464152680233,RL,Consumer Discretionary,Oracle Corp.
+PPG daily returns,0.03988655833020029,0.3419088706717808,PPG,Materials,PACCAR Inc.
+PPL daily returns,0.07706430951202824,0.3633628226225471,PPL,Utilities,Packaging Corporation of America
+PFG daily returns,-0.08345759312547316,0.48385304329732975,PFG,Financials,Parker-Hannifin
+PG daily returns,0.24924095030860796,0.29460868211269003,PG,Consumer Staples,Paychex Inc.
+PGR daily returns,0.3270351739739262,0.32159017155041725,PGR,Financials,PayPal
+PLD daily returns,0.47411783846658745,0.3778872110917675,PLD,Real Estate,Pentair Ltd.
+PRU daily returns,-0.09809074728128811,0.4999607991143571,PRU,Financials,People's United Financial
+PEG daily returns,0.10829286749693319,0.296482876583405,PEG,Utilities,PepsiCo Inc.
+PSA daily returns,0.13025308102874078,0.2876923447927098,PSA,Real Estate,PerkinElmer
+PHM daily returns,0.1456345878238309,0.506908195921622,PHM,Consumer Discretionary,Perrigo
+PVH daily returns,-0.2903641358892457,0.6479259075322434,PVH,Consumer Discretionary,Pfizer Inc.
+QRVO daily returns,0.3654397540799044,0.5013265399943613,QRVO,Information Technology,PG&E Corp.
+QCOM daily returns,0.32525562824365123,0.4878223934578055,QCOM,Information Technology,Philip Morris International
+PWR daily returns,0.16956426341872496,0.3873919542726541,PWR,Industrials,Phillips 66
+DGX daily returns,0.1561126253049371,0.32904607567151073,DGX,Health Care,Pinnacle West Capital
+RRC daily returns,-0.40222597091726314,0.8586860576522786,RRC,Energy,Pioneer Natural Resources
+RJF daily returns,0.06368524750443305,0.4430576786180157,RJF,Financials,PNC Financial Services
+O daily returns,0.08263317467979012,0.46372156068413684,O,Real Estate,Polo Ralph Lauren Corp.
+REG daily returns,-0.07939431635422306,0.40129903066669603,REG,Real Estate,PPG Industries
+REGN daily returns,0.3184276445954537,0.3648240265962596,REGN,Health Care,PPL Corp.
+RF daily returns,-0.002736837146078709,0.5009589548392781,RF,Financials,Praxair Inc.
+RSG daily returns,0.1648897644474711,0.28250607762615376,RSG,Industrials,Principal Financial Group
+RMD daily returns,0.39172662997946783,0.45313935973545233,RMD,Health Care,Procter & Gamble
+RHI daily returns,-0.1290062240559715,0.38404335050495925,RHI,Industrials,Progressive Corp.
+ROK daily returns,0.20370506156353962,0.4435158115887607,ROK,Industrials,Prologis
+COL daily returns,-0.12605687586904388,0.42381290739681676,COL,Industrials,Prudential Financial
+ROP daily returns,0.19837282936775638,0.34276168631802034,ROP,Industrials,Public Serv. Enterprise Inc.
+ROST daily returns,0.14783095831819518,0.4269651682520194,ROST,Consumer Discretionary,Public Storage
+RCL daily returns,-0.38064673306023655,0.743889921180912,RCL,Consumer Discretionary,Pulte Homes Inc.
+SPGI daily returns,0.4863356504300128,0.39465070514079525,SPGI,Financials,PVH Corp.
+CRM daily returns,0.1742949912860955,0.3747144410147019,CRM,Information Technology,Qorvo
+SBAC daily returns,0.5710180246608944,0.35015687307935234,SBAC,Real Estate,QUALCOMM Inc.
+SLB daily returns,-0.419079448876081,0.5652394769555985,SLB,Energy,Quanta Services Inc.
+SEE daily returns,0.0019416785347391842,0.4603738585029275,SEE,Materials,Quest Diagnostics
+SRE daily returns,0.25881004538523356,0.3703403311704751,SRE,Utilities,Range Resources Corp.
+SHW daily returns,0.2580531362155733,0.3718300696271432,SHW,Materials,Raymond James Financial Inc.
+SPG daily returns,-0.45968346728954396,0.5923003016383764,SPG,Real Estate,Raytheon Co.
+SWKS daily returns,0.3669553256603444,0.5041149923676917,SWKS,Information Technology,Realty Income Corporation
+SLG daily returns,-0.14504763300771034,0.44816752403336757,SLG,Real Estate,Regency Centers Corporation
+SNA daily returns,-0.054778881075625015,0.370515527254491,SNA,Consumer Discretionary,Regeneron
+SO daily returns,0.36703290151353135,0.380432190283368,SO,Utilities,Regions Financial Corp.
+LUV daily returns,-0.11007474777498157,0.41335252143023915,LUV,Industrials,Republic Services Inc
+SWK daily returns,0.15704190805888465,0.5384782317146509,SWK,Consumer Discretionary,ResMed
+SBUX daily returns,0.19665486046611189,0.3721667040730351,SBUX,Consumer Discretionary,Robert Half International
+STT daily returns,0.10173114831712052,0.4633318158395286,STT,Financials,Rockwell Automation Inc.
+SRCL daily returns,0.3621907409894656,0.47611235925326095,SRCL,Industrials,Rockwell Collins
+SYK daily returns,0.2206894745258174,0.3931109007688276,SYK,Health Care,Roper Technologies
+SIVB daily returns,0.10224064407811853,0.5367734315934027,SIVB,Financials,Ross Stores
+SYF daily returns,-0.07600281568424525,0.5378282955383672,SYF,Financials,Royal Caribbean Cruises Ltd
+SNPS daily returns,0.44651390643612393,0.3569894712534767,SNPS,Information Technology,"S&P Global, Inc."
+SYY daily returns,-0.019580627842416806,0.49919786392473897,SYY,Consumer Staples,Salesforce.com
+TROW daily returns,0.2193125586634457,0.409825746538475,TROW,Financials,SBA Communications
+TTWO daily returns,0.18997507048998277,0.4009447513329185,TTWO,Information Technology,Schlumberger Ltd.
+TPR daily returns,-0.32667560769530624,0.6820733356578269,TPR,Consumer Discretionary,Seagate Technology
+TGT daily returns,0.45876409646987415,0.3935840707054141,TGT,Consumer Discretionary,Sealed Air
+FTI daily returns,-0.46656877305815475,0.615578803127324,FTI,Energy,Sempra Energy
+TXN daily returns,0.19155617435578318,0.39369751613921894,TXN,Information Technology,Sherwin-Williams
+TXT daily returns,-0.2285795500835003,0.49276785974393444,TXT,Industrials,Simon Property Group Inc
+CLX daily returns,0.21723174071383228,0.2689227918658625,CLX,Consumer Staples,Skyworks Solutions
+COO daily returns,0.1855335831374593,0.3223090776751005,COO,Health Care,SL Green Realty
+HSY daily returns,0.32010894142612506,0.324170755486726,HSY,Consumer Staples,Snap-On Inc.
+MOS daily returns,-0.4283426893946255,0.6249709559047313,MOS,Materials,Southern Co.
+TRV daily returns,0.0425338130413098,0.3715388386454006,TRV,Financials,Southwest Airlines
+DIS daily returns,0.04557882587617958,0.3726909797614509,DIS,Consumer Discretionary,Stanley Black & Decker
+TMO daily returns,0.34459699590664244,0.3202202221453369,TMO,Health Care,Starbucks Corp.
+TIF daily returns,0.44839095949806007,0.4037165454353623,TIF,Consumer Discretionary,State Street Corp.
+TJX daily returns,0.1619156149232285,0.38431616976767297,TJX,Consumer Discretionary,Stericycle Inc
+TSCO daily returns,0.11715912864343336,0.3348299533920544,TSCO,Consumer Discretionary,Stryker Corp.
+TDG daily returns,0.25248953445982536,0.5490655565928029,TDG,Industrials,SunTrust Banks
+TRIP daily returns,-0.6278197497036614,0.5045359807587504,TRIP,Consumer Discretionary,SVB Financial
+TSN daily returns,0.208065730613177,0.4025715298865801,TSN,Consumer Staples,Synchrony Financial
+USB daily returns,-0.044397024451486425,0.39540368748890403,USB,Financials,Synopsys Inc.
+UDR daily returns,0.12841927025615732,0.3484300896820495,UDR,Real Estate,Sysco Corp.
+ULTA daily returns,0.02620345137611456,0.5973488195762379,ULTA,Consumer Discretionary,T. Rowe Price Group
+UAA daily returns,-0.2576359276716149,0.5609463337697824,UAA,Consumer Discretionary,Take-Two Interactive
+UA daily returns,-0.2910428411096453,0.5437613740349176,UA,Consumer Discretionary,"Tapestry, Inc."
+UNP daily returns,0.1523086535410753,0.3736115276323127,UNP,Industrials,Target Corp.
+UAL daily returns,-0.5466930974930347,0.6552420074223488,UAL,Industrials,TE Connectivity Ltd.
+UNH daily returns,0.1723890117188759,0.4270873987130635,UNH,Health Care,TechnipFMC
+UPS daily returns,0.10134139428551153,0.33178271381704244,UPS,Industrials,Texas Instruments
+URI daily returns,0.17685080977007406,0.5688657027719825,URI,Industrials,Textron Inc.
+UHS daily returns,0.04538114371551836,0.5148665936532787,UHS,Health Care,The Bank of New York Mellon Corp.
+UNM daily returns,-0.3105494044677627,0.5809874584143828,UNM,Financials,The Clorox Company
+VFC daily returns,0.017936020323672856,0.4335293023955146,VFC,Consumer Discretionary,The Cooper Companies
+VLO daily returns,-0.14277129567884822,0.5214391698414503,VLO,Energy,The Hershey Company
+VAR daily returns,0.07301784120617678,0.37378353364647027,VAR,Health Care,The Mosaic Company
+VTR daily returns,-0.14033727570213553,0.6276162960476227,VTR,Real Estate,The Travelers Companies Inc.
+VRSN daily returns,0.2845235762961933,0.352594180157759,VRSN,Information Technology,The Walt Disney Company
+VRSK daily returns,0.30214730289306874,0.3179225488687423,VRSK,Industrials,Thermo Fisher Scientific
+VZ daily returns,0.09488432619474133,0.22867956641200632,VZ,Telecommunication Services,Tiffany & Co.
+VRTX daily returns,0.3859794522903022,0.3618985320443666,VRTX,Health Care,TJX Companies Inc.
+V daily returns,0.2790842690537179,0.3531928514308734,V,Information Technology,Tractor Supply Company
+VNO daily returns,-0.10379995426410592,0.4177019937394354,VNO,Real Estate,TransDigm Group
+VMC daily returns,0.206720395468918,0.40076759158540465,VMC,Materials,TripAdvisor
+WMT daily returns,0.2586551908040673,0.2597595826227516,WMT,Consumer Staples,Twenty-First Century Fox Class A
+WBA daily returns,-0.23823553557282173,0.38377734778055617,WBA,Consumer Staples,Twenty-First Century Fox Class B
+WAT daily returns,0.11323241648131845,0.3509397803604608,WAT,Health Care,Tyson Foods
+WEC daily returns,0.3872953605664988,0.35721290454245275,WEC,Utilities,U.S. Bancorp
+WFC daily returns,-0.14218016949399465,0.42568044313452214,WFC,Financials,UDR Inc
+WDC daily returns,0.3618480844764966,0.6141830746995697,WDC,Information Technology,Ulta Beauty
+WU daily returns,0.19722464495591807,0.32160143955070886,WU,Information Technology,Under Armour Class A
+WRK daily returns,0.022435291443808757,0.5007029793812734,WRK,Materials,Under Armour Class C
+WY daily returns,0.17332435525297052,0.5323258857884587,WY,Real Estate,Union Pacific
+WHR daily returns,0.14225103935627373,0.5198038313452905,WHR,Consumer Discretionary,United Continental Holdings
+WMB daily returns,-0.034520678737777304,0.5162066931180893,WMB,Energy,United Health Group Inc.
+WLTW daily returns,0.2814073685950325,0.3330144022813824,WLTW,Financials,United Parcel Service
+WYNN daily returns,-0.06199842835384299,0.644627923714101,WYNN,Consumer Discretionary,"United Rentals, Inc."
+XEL daily returns,0.32851660555685214,0.3203259157425154,XEL,Utilities,United Technologies
+XRX daily returns,0.1244011253862839,0.48588760806163067,XRX,Information Technology,"Universal Health Services, Inc."
+XLNX daily returns,0.08842857838240459,0.4669963011965093,XLNX,Information Technology,Unum Group
+XYL daily returns,0.11696141386211678,0.37844549630463853,XYL,Industrials,V.F. Corp.
+YUM daily returns,-0.02057375174100228,0.36567370704993407,YUM,Consumer Discretionary,Valero Energy
+ZBH daily returns,0.1391327430585374,0.37975606110023996,ZBH,Health Care,Varian Medical Systems
+ZION daily returns,-0.13888454475209241,0.35806445764114697,ZION,Financials,Ventas Inc
+ZTS daily returns,0.39501103330880155,0.33680894748420426,ZTS,Health Care,Verisign Inc.
